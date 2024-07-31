@@ -1,0 +1,34 @@
+:root {
+  --primary-color: #002f68;
+  --secondary-color: #e6e7e8;
+  --tertiary-color: #0061af;
+  --bg-color: #ffffff;
+}
+
+.first {
+  --primary-color: #0061af;
+}
+
+.second {
+  --primary-color: #243a31;
+}
+
+.third {
+  --primary-color: #9ad19f;
+}
+
+.fourth {
+  --primary-color: #89bb40;
+}
+
+.fifth {
+  --primary-color: #5a67af;
+}
+
+.sixth {
+  --primary-color: #f1a444;
+}
+
+.seventh {
+  --primary-color: #002f68;
+}
